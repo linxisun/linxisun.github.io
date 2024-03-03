@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor of [Management Sciences](https://www.cb.cityu.edu.hk/staff/zhanksun/) in the College of Business, City University of Hong Kong. I received my bachelor's degree in Industrial Engineering from [Tsinghua University](https://en.wikipedia.org/wiki/Tsinghua_University) in 2009, and Ph.D. in Statistics and Operations Research from [UNC Chapel Hill](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill) in 2014<a href="/files/PhD-Degree.pdf" style="color: inherit; text-decoration: none;">.</a> I was an Eyes High scholar in the Haskayne School of Business from 2014 to 2016, during which I work closely with [Alberta Health Services](https://www.albertahealthservices.ca/) and emergency departments in Alberta, Canada.
+I am a primary 5 student studying at [Kowloon Tong School (Primary Section)](https://www.ktsps.edu.hk/eng/index.html) in Hong Kong. I am a big fan of sports, including badminton, track and field, and others. I love reading. My favourite book is Matilda, a children's novel by British author [Roald Dahl](https://en.wikipedia.org/wiki/Roald_Dahl). 
